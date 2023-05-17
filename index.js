@@ -7,9 +7,19 @@ app.use(cors());
 const port = process.env.PORT || 4000;
 
 const chefs = require("./data/chefData.json");
+const breakfast = require("./data/breakfast.json");
+const dinner = require("./data/dinner.json");
 
 app.get("/data", (req, res) => {
   res.send(chefs);
+});
+
+app.get("/breakfast", (req, res) => {
+  res.send(breakfast);
+});
+
+app.get("/dinner", (req, res) => {
+  res.send(dinner);
 });
 
 app.get("/data/:id", (req, res) => {
