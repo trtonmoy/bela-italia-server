@@ -2,49 +2,314 @@
   {
     "id": "01",
     "name": "Alberto",
-    "chef-img": "https://motionarray.imgix.net/preview-548994-fgiNWgkfqmHFEOZB-large.jpg?w=660&q=60&fit=max&auto=format",
-    "years-of-exp": "10",
-    "numbers-of-rec": "133",
-    "likes": "24995"
+    "chef_img": "https://motionarray.imgix.net/preview-548994-fgiNWgkfqmHFEOZB-large.jpg?w=660&q=60&fit=max&auto=format",
+    "years_of_exp": "10",
+    "numbers_of_rec": "133",
+    "likes": "24995",
+    "details": [
+      {
+        "item_name": "Italian Fried Rice with crispy fried chicken",
+        "ingredients": [
+          "Rice",
+          "Chicken",
+          "Onion",
+          "Capsicum",
+          "Garlic",
+          "Ginger",
+          "Butter",
+          "Mastered Oil"
+        ],
+        "cooking_process": "Fried",
+        "ratings": "Five Star"
+      }
+    ]
   },
   {
     "id": "02",
     "name": "Alberto",
-    "chef-img": "https://motionarray.imgix.net/preview-548994-fgiNWgkfqmHFEOZB-large.jpg?w=660&q=60&fit=max&auto=format",
-    "years-of-exp": "10",
-    "numbers-of-rec": "133",
+    "chef_img": "https://motionarray.imgix.net/preview-548994-fgiNWgkfqmHFEOZB-large.jpg?w=660&q=60&fit=max&auto=format",
+    "years_of_exp": "10",
+    "numbers_of_rec": "133",
     "likes": "24995"
   },
   {
     "id": "03",
     "name": "Alberto",
-    "chef-img": "https://motionarray.imgix.net/preview-548994-fgiNWgkfqmHFEOZB-large.jpg?w=660&q=60&fit=max&auto=format",
-    "years-of-exp": "10",
-    "numbers-of-rec": "133",
-    "likes": "24995"
+    "chef_img": "https://motionarray.imgix.net/preview-548994-fgiNWgkfqmHFEOZB-large.jpg?w=660&q=60&fit=max&auto=format",
+    "years_of_exp": "10",
+    "numbers_of_rec": "133",
+    "likes": "24995",
+    "details": [
+      {
+        "item_name": "Italian Fried Rice with crispy fried chicken",
+        "ingredients": [
+          "Rice",
+          "Chicken",
+          "Onion",
+          "Capsicum",
+          "Garlic",
+          "Ginger",
+          "Butter",
+          "Mastered Oil"
+        ],
+        "cooking_process": "Fried",
+        "ratings": "Five Star"
+      },
+      {
+        "item_name": "Italian Fried Rice with crispy fried chicken",
+        "ingredients": [
+          "Rice",
+          "Chicken",
+          "Onion",
+          "Capsicum",
+          "Garlic",
+          "Ginger",
+          "Butter",
+          "Mastered Oil"
+        ],
+        "cooking_process": "Fried",
+        "ratings": "Five Star"
+      },
+      {
+        "item_name": "Italian Fried Rice with crispy fried chicken",
+        "ingredients": [
+          "Rice",
+          "Chicken",
+          "Onion",
+          "Capsicum",
+          "Garlic",
+          "Ginger",
+          "Butter",
+          "Mastered Oil"
+        ],
+        "cooking_process": "Fried",
+        "ratings": "Five Star"
+      },
+      {
+        "item_name": "Italian Fried Rice with crispy fried chicken",
+        "ingredients": [
+          "Rice",
+          "Chicken",
+          "Onion",
+          "Capsicum",
+          "Garlic",
+          "Ginger",
+          "Butter",
+          "Mastered Oil"
+        ],
+        "cooking_process": "Fried",
+        "ratings": "Five Star"
+      }
+    ]
   },
   {
     "id": "04",
     "name": "Alberto",
-    "chef-img": "https://motionarray.imgix.net/preview-548994-fgiNWgkfqmHFEOZB-large.jpg?w=660&q=60&fit=max&auto=format",
-    "years-of-exp": "10",
-    "numbers-of-rec": "133",
-    "likes": "24995"
+    "chef_img": "https://motionarray.imgix.net/preview-548994-fgiNWgkfqmHFEOZB-large.jpg?w=660&q=60&fit=max&auto=format",
+    "years_of_exp": "10",
+    "numbers_of_rec": "133",
+    "likes": "24995",
+    "details": [
+      {
+        "item_name": "Italian Fried Rice with crispy fried chicken",
+        "ingredients": [
+          "Rice",
+          "Chicken",
+          "Onion",
+          "Capsicum",
+          "Garlic",
+          "Ginger",
+          "Butter",
+          "Mastered Oil"
+        ],
+        "cooking_process": "Fried",
+        "ratings": "Five Star"
+      },
+      {
+        "item_name": "Italian Fried Rice with crispy fried chicken",
+        "ingredients": [
+          "Rice",
+          "Chicken",
+          "Onion",
+          "Capsicum",
+          "Garlic",
+          "Ginger",
+          "Butter",
+          "Mastered Oil"
+        ],
+        "cooking_process": "Fried",
+        "ratings": "Five Star"
+      },
+      {
+        "item_name": "Italian Fried Rice with crispy fried chicken",
+        "ingredients": [
+          "Rice",
+          "Chicken",
+          "Onion",
+          "Capsicum",
+          "Garlic",
+          "Ginger",
+          "Butter",
+          "Mastered Oil"
+        ],
+        "cooking_process": "Fried",
+        "ratings": "Five Star"
+      },
+      {
+        "item_name": "Italian Fried Rice with crispy fried chicken",
+        "ingredients": [
+          "Rice",
+          "Chicken",
+          "Onion",
+          "Capsicum",
+          "Garlic",
+          "Ginger",
+          "Butter",
+          "Mastered Oil"
+        ],
+        "cooking_process": "Fried",
+        "ratings": "Five Star"
+      }
+    ]
   },
   {
     "id": "05",
     "name": "Alberto",
-    "chef-img": "https://motionarray.imgix.net/preview-548994-fgiNWgkfqmHFEOZB-large.jpg?w=660&q=60&fit=max&auto=format",
-    "years-of-exp": "10",
-    "numbers-of-rec": "133",
-    "likes": "24995"
+    "chef_img": "https://motionarray.imgix.net/preview-548994-fgiNWgkfqmHFEOZB-large.jpg?w=660&q=60&fit=max&auto=format",
+    "years_of_exp": "10",
+    "numbers_of_rec": "133",
+    "likes": "24995",
+    "details": [
+      {
+        "item_name": "Italian Fried Rice with crispy fried chicken",
+        "ingredients": [
+          "Rice",
+          "Chicken",
+          "Onion",
+          "Capsicum",
+          "Garlic",
+          "Ginger",
+          "Butter",
+          "Mastered Oil"
+        ],
+        "cooking_process": "Fried",
+        "ratings": "Five Star"
+      },
+      {
+        "item_name": "Italian Fried Rice with crispy fried chicken",
+        "ingredients": [
+          "Rice",
+          "Chicken",
+          "Onion",
+          "Capsicum",
+          "Garlic",
+          "Ginger",
+          "Butter",
+          "Mastered Oil"
+        ],
+        "cooking_process": "Fried",
+        "ratings": "Five Star"
+      },
+      {
+        "item_name": "Italian Fried Rice with crispy fried chicken",
+        "ingredients": [
+          "Rice",
+          "Chicken",
+          "Onion",
+          "Capsicum",
+          "Garlic",
+          "Ginger",
+          "Butter",
+          "Mastered Oil"
+        ],
+        "cooking_process": "Fried",
+        "ratings": "Five Star"
+      },
+      {
+        "item_name": "Italian Fried Rice with crispy fried chicken",
+        "ingredients": [
+          "Rice",
+          "Chicken",
+          "Onion",
+          "Capsicum",
+          "Garlic",
+          "Ginger",
+          "Butter",
+          "Mastered Oil"
+        ],
+        "cooking_process": "Fried",
+        "ratings": "Five Star"
+      }
+    ]
   },
   {
     "id": "06",
     "name": "Alberto",
-    "chef-img": "https://motionarray.imgix.net/preview-548994-fgiNWgkfqmHFEOZB-large.jpg?w=660&q=60&fit=max&auto=format",
-    "years-of-exp": "10",
-    "numbers-of-rec": "133",
-    "likes": "24995"
+    "chef_img": "https://motionarray.imgix.net/preview-548994-fgiNWgkfqmHFEOZB-large.jpg?w=660&q=60&fit=max&auto=format",
+    "years_of_exp": "10",
+    "numbers_of_rec": "133",
+    "likes": "24995",
+    "details": [
+      {
+        "item_name": "Italian Fried Rice with crispy fried chicken",
+        "ingredients": [
+          "Rice",
+          "Chicken",
+          "Onion",
+          "Capsicum",
+          "Garlic",
+          "Ginger",
+          "Butter",
+          "Mastered Oil"
+        ],
+        "cooking_process": "Fried",
+        "ratings": "Five Star"
+      },
+      {
+        "item_name": "Italian Fried Rice with crispy fried chicken",
+        "ingredients": [
+          "Rice",
+          "Chicken",
+          "Onion",
+          "Capsicum",
+          "Garlic",
+          "Ginger",
+          "Butter",
+          "Mastered Oil"
+        ],
+        "cooking_process": "Fried",
+        "ratings": "Five Star"
+      },
+      {
+        "item_name": "Italian Fried Rice with crispy fried chicken",
+        "ingredients": [
+          "Rice",
+          "Chicken",
+          "Onion",
+          "Capsicum",
+          "Garlic",
+          "Ginger",
+          "Butter",
+          "Mastered Oil"
+        ],
+        "cooking_process": "Fried",
+        "ratings": "Five Star"
+      },
+      {
+        "item_name": "Italian Fried Rice with crispy fried chicken",
+        "ingredients": [
+          "Rice",
+          "Chicken",
+          "Onion",
+          "Capsicum",
+          "Garlic",
+          "Ginger",
+          "Butter",
+          "Mastered Oil"
+        ],
+        "cooking_process": "Fried",
+        "ratings": "Five Star"
+      }
+    ]
   }
 ]
